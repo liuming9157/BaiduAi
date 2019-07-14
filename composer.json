@@ -3,7 +3,8 @@
     "description": "the best baidu ai php sdk",
     "authors": [
         {
-            "name": "liuming9157"
+            "name": "liuming9157",
+            "email":liuming@mzsat.cn
         }
     ],
     "license": "Apache-2.0",
