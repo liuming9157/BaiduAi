@@ -1,7 +1,7 @@
 # BaiduAi
 ### 概述
-最好用的百度AI
-BaiduAi 是一个开源的 百度 非官方 SDK。
+最好用的百度AI  
+BaiduAi 是一个开源的 百度 非官方 SDK。  
 EasyWeChat 的安装非常简单，因为它是一个标准的 Composer 包，这意味着任何满足下列安装条件的 PHP 项目支持 Composer 都可以使用它。
 ### 安装
 ###### 使用 composer:
