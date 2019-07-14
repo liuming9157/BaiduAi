@@ -1,0 +1,28 @@
+{
+    "name": "liuming9157/baiduai",
+    "description": "the best baidu ai php sdk",
+    "authors": [
+        {
+            "name": "liuming9157"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "lib/AipBase.php",
+            "AipBodyAnalysis.php",
+            "AipContentCensor.php",
+            "AipFace.php",
+            "AipImageClassify.php",
+            "AipImageSearch.php",
+            "AipKg.php",
+            "AipNlp.php",
+            "AipOcr.php",
+            "AipSpeech.php"
+        ]
+    }
+}
