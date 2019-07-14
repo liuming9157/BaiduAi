@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.3"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "1.0.0",
     "autoload": {
         "files": [
             "lib/AipBase.php",
