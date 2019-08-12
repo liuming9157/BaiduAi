@@ -1,4 +1,5 @@
 <?php
+namespace BaiduAi\lib;
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
 *

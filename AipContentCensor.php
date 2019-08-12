@@ -15,9 +15,7 @@ namespace BaiduAi;
 * License for the specific language governing permissions and limitations under
 * the License.
 */
-
-require_once 'AipImageCensor.php';
-
+use BaiduAi\AipImageCensor;
 /**
  * 内容审核
  */
